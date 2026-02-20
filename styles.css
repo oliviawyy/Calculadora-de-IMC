@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    
+}
+
+body{
+    background: #FFD6A5;
+    min-height: 100vh;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    display: flex;
+    border-radius: 7%;
+    transition: all 0.3s ease;
+    background-color: #FFB703;
+    padding: 3px;
+}
+
+h1{
+    color: #D1495B;
+}
